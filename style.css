@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    background-color: rgb(196, 180, 180);
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.texto{
+    text-align: center;
+    text-justify: newspaper;
+}
+.Text-tittle{
+    text-align: center;
+ color: rgb(243, 38, 38);
+ font-size: large;
+ font-weight: 1000;
+ padding: 16x 16x ;
+}
+
+
+.texto{
+   font-style: normal;
+   font-size: medium;
+}
+.tabla, th, td{
+    border: 2px solid rgb(243, 38, 38);
+    border-collapse: collapse;
+    border-color: crimson;
+    margin-top: 16x 20x 25x 18x;
+    
+    
+}
+.valorant{
+    text-align: center;
+ color: rgb(243, 38, 38);
+ font-size: large;
+ font-weight: 1000;
+}
+.p{
+    
+    margin: 16x 20x 25x 18x;
+}
+.azul{
+    display: block;
+    width: 100px;
+    border-radius: 10px;
+    margin: 150x 130x;
+    padding: 15px 30px;
+     color: brown;
+     background-color: rgb(209, 76, 76);
+}
+.container-phone{
+    font-size: 17px;
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 15px;
+    color: black;
+    font-weight: 700;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rebeccapurple;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+text-decoration: none;
+color: antiquewhite;
+padding: 20px;
+display: block;
+
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+}
+.menu li a:hover{
+    background: rgb(209, 76, 76);
+}
